@@ -12,5 +12,10 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   </BrowserRouter>
 );
 
-export const url = "https://bookstore-uuud.onrender.com";
+const url = "https://bookstore-uuud.onrender.com";
 // url = http://localhost:5555
+
+export default url;
+
+
+  
